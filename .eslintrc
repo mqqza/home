@@ -17,13 +17,13 @@
         "jsx-a11y/onclick-has-focus": [0],
         "jsx-a11y/onclick-has-role": [0],
         "jsx-a11y/img-has-alt": [0],
-
         "comma-dangle": ["error", "never"],
         "jsx-quotes": ["error", "prefer-single"],
         "no-confusing-arrow": [0],
         "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
         "react/jsx-no-bind": [0],
         "react/prop-types": [1],
-        "react/require-default-props": [0]
+        "react/require-default-props": [0],
+        "react/jsx-wrap-multilines": [0]
     }
 }
